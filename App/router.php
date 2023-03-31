@@ -17,8 +17,9 @@
             $this->method = !empty($url[2]) ? $url[2] : 'home';
 
             # Invocacion Pagecontroller
+            # problema solucionando /.. en controllers
             $this->controller = $this->controller . 'Controller';
-            require_once(__DIR__ . '/Controllers/'.$this->controller.'.php');
+            require_once(__DIR__ . '/../controllers/'.$this->controller.'.php');
 
         }
 

@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../Public/Assets/css/style.css">
+    <link rel="stylesheet" href="../../Public/Assets/bootstrap/css/bootstrap.min.css">
     <title>Inicio de Sesion - Facturacion</title>
 </head>
 <body>
@@ -13,7 +13,7 @@
         <div class="container main">
             <div class="row">
                 <div class="col-md-6 side-image">
-                    <!-------Assets Image-------->
+                    <!-------imagen asessts-------->
                     <div class="text">
                         <p> &ldquo;Sin una metodolog&iacute;a, las ventas son accidentales.&rdquo; <i>- SkynetCusco</i></p>
                     </div>
